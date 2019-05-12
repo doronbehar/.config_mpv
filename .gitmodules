@@ -1,0 +1,3 @@
+[submodule "scripts/mpris"]
+	path = scripts/mpris
+	url = https://github.com/hoyon/mpv-mpris
